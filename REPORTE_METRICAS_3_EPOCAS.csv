@@ -1,0 +1,5 @@
+Modelo,Tiempo Train (s),Loss Final,VRAM (GB),Velocidad (tok/s),Similitud Semántica (0-1),ROUGE-L Score
+unsloth/llama-3-8b-Instruct-bnb-4bit,541.33,0.1667,7.262,1.59,0.673,0.2727
+unsloth/mistral-7b-instruct-v0.3-bnb-4bit,423.55,0.4288,7.291,22.03,0.3874,0.1333
+unsloth/Qwen2.5-7B-Instruct-bnb-4bit,543.54,0.1577,7.406,19.11,0.6676,0.4444
+unsloth/gemma-2-9b-it-bnb-4bit,1137.59,0.2107,9.223,8.6,0.8669,0.5161
